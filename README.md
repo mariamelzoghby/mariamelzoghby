@@ -14,7 +14,7 @@ I'm currently pursuing a Master of Science in Applied Quantitative Economic Anal
 
 
 
-<img src="https://github.com/mariamelzoghby/mariamelzoghby/assets/157535392/dc0225db-7bf9-401e-a499-4a4cb68ca510" width="100">
+<img src="https://github.com/mariamelzoghby/mariamelzoghby/assets/157535392/dc0225db-7bf9-401e-a499-4a4cb68ca510" width="250">
 
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⢰⣾⣝⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
