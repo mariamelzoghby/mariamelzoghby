@@ -7,7 +7,7 @@ I'm pursuing a Master of Science in Applied Quantitative Economic Analysis and P
 
 - 🔭 I’m currently working on a study investigating the effect of graduation year on earnings and primary job promotion
 - 🌱 I’m learning how to code using Python in my data analytics course 
-- ⚡ Fun fact: I can speak Arabic, specifically the Egyptian dialect! I've also visited the Pyramids of Giza.
+- ⚡ Fun fact: I can speak Arabic, specifically the Egyptian dialect! I've also visited the Pyramids of Giza and I have a cat named Simba!
 
 
 <img src="https://github.com/mariamelzoghby/mariamelzoghby/assets/157535392/0cd560bd-6450-45b3-ba24-8908847cfa70" width="250">
