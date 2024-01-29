@@ -2,7 +2,7 @@
 
 My name is Mariam Elzoghby!
 
-I'm currently pursuing a Master of Science in Applied Quantitative Economic Analysis and Policy at Pace University.
+I'm pursuing a Master of Science in Applied Quantitative Economic Analysis and Policy at Pace University.
 
 
 - 🔭 I’m currently working on a study investigating the effect of graduation year on earnings and primary job promotion
