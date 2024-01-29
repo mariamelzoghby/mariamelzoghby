@@ -11,6 +11,7 @@ I'm pursuing a Master of Science in Applied Quantitative Economic Analysis and P
 
 
 <img src="https://github.com/mariamelzoghby/mariamelzoghby/assets/157535392/0cd560bd-6450-45b3-ba24-8908847cfa70" width="250">
+<img src="https://github.com/mariamelzoghby/mariamelzoghby/assets/157535392/d507e7a9-f8ab-4474-bc4d-4fd9b9cf605a" width="250">
 
 
 <!--
