@@ -15,6 +15,7 @@ I'm currently pursuing a Master of Science in Applied Quantitative Economic Anal
 
 <img src="https://github.com/mariamelzoghby/mariamelzoghby/assets/157535392/d4831f27-8f16-4d2b-bb6c-a9b005a37180" width="250">
 
+<img src="https://github.com/mariamelzoghby/mariamelzoghby/assets/157535392/2c58b746-a654-405d-9244-6ebe713bf205" width="250">
 
 <!--
 **mariamelzoghby/mariamelzoghby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
